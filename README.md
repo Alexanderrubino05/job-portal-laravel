@@ -9,7 +9,9 @@
 </p>
 
 ## About The Project
-I have created an...
+I have created a job portal website with Laravel and MySQL.
+Which functions like a fully CRUD application, with Create, Read, Update and Delete features.
+A user can login/register, after which they can explore the developer job market. On the website they can create, update or delete their own job proposal.
 
 ## About Laravel
 
